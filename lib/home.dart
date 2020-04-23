@@ -68,7 +68,7 @@ class _HomePageState extends State<HomePage> {
               ),
               Container( // Button
                 margin: EdgeInsets.only(top: 20),
-                width: 100,
+                width: 110,
                 height: 40,
                 child: RaisedButton(
                   child: Text(
